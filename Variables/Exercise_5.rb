@@ -1,3 +1,6 @@
+# 5. Look at the following programs...
+# What does x print to the screen in each case? Do they both give errors? Are the errors different? Why?
+
 # The first program will print 3.
 
 x = 0

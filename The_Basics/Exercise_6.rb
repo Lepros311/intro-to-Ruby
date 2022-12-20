@@ -1,3 +1,6 @@
+# 6. Write a program that calculates the squares of 3 float numbers of your choosing and outputs the result to the screen.
+
+
 num1 = 5.5
 num2 = 2.2
 num3 = 7.7
